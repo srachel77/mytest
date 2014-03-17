@@ -2,3 +2,4 @@ first line
 second line
 third line
 remotely adding fourth line
+locally added fifth line
